@@ -4,8 +4,8 @@ import MyPicture from './images/picture.png';
 
 function Home() {
   return (
-    <div className="container mt-5">
-      <div className="row">
+    <div className="container mt-4">
+      <div>
         <div className="col-12">
           <img src={MyPicture} alt="Antimio's headshot" className="img-fluid float-md-right ml-md-4 mb-3" style={{maxWidth: "200px"}} />
           <p>
